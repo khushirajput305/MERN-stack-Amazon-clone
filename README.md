@@ -41,7 +41,7 @@ This is a clone of the well-known e-commerce website Amazon. Customers can brow
 npm install
 nodemon
 ```
-The server is now running at http://localhost:8000/ 
+The server is now running at http://localhost:5007/ 
 
 ## To start the client 👩‍💻
 ```shell
