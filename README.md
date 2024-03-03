@@ -51,7 +51,7 @@ npm start
 ```
 The client is now running at http://localhost:3000/ 
 
-#### To see the client (fronted part) 
+## To see the client (fronted part) 
 go to the master branch
 
 ## Screenshots 
