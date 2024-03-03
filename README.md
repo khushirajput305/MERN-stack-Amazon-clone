@@ -27,16 +27,12 @@ This is a clone of the well-known e-commerce website Amazon. Customers can brow
   <li><strong>Backend:</strong> Express.js</li>
   <li><strong>Database:</strong> MongoDB</li>
   <li><strong>Runtime Environment:</strong> Node.js</li>
-  <li><strong>HTTP Client:</strong> Axios</li>
   <li><strong>Version Control:</strong> Git</li>
   <li><strong>Payment Integration:</strong> Razorpay</li>
 </ul>
 
-## Demo Link 🌐
-https://amazonclone-sp.herokuapp.com/
-
 ## Download Files 👇
-* Go to my GitHub repository: https://github.com/SushantPatial/Amazon-Clone
+* Go to my GitHub repository: https://github.com/khushirajput305/MERN-stack-Amazon-clone
 * Download zip or clone repository
 * Then open the folder in your IDE
 
